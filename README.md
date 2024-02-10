@@ -15,10 +15,10 @@ Get instant access to real-time and forecast weather information for any locatio
 * **Front-End:** HTML, CSS, JavaScript
 * **API:** RapidAPI
 
+**Click here to launch the app:** [https://mrehanamjad.github.io/weather-app/]
 
-[![Try Now!](https://img.shields.io/badge/Try%20Now-Live%20Demo-blue.svg)](https://mrehanamjad.github.io/weather-app/)
 
-<iframe src="https://try.dev/your-app-handle/button" style="width: 150px; height: 40px;"></iframe>
+
 
 
 
